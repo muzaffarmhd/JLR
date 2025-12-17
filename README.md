@@ -14,7 +14,7 @@ This is a learning repository to learn JAX and how fundamental calculus operatio
 - [x] Directional derivatives and gradient vector
 - [x] Total derivative and multivariable chain rule
 - [x] Jacobian matrix and linear approximation
-- [ ] Jacobian–vector and vector–Jacobian products
+- [x] Jacobian–vector and vector–Jacobian products
 - [ ] Second-order derivatives and Hessian matrix
 - [ ] Curvature, saddle points, local minima
 - [ ] Multivariable Taylor expansion (1st and 2nd order)
