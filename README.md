@@ -1,4 +1,10 @@
-# JAX Learning Repository
+<div style="text-align: center;">
+  <img src="./images/jax_logo_250px.png" alt="Description of image" style="display: block; margin: 0 auto">
+</div>
+
+
+# JAX Learning Repository (JLR)
+This is a learning repository to learn JAX and how fundamental calculus operations are performed with and within JAX while building a few models while exploring.
 ## The Prerequisite Math
 - Partial Differentiation & Gradients: Understand how to compute the gradient of a scalar-valued function with respect to a vector input. This is the foundation of training models.
 1. Total Derivative:
