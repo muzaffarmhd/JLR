@@ -1,6 +1,8 @@
+<html>
 <div style="text-align: center;">
   <img src="./images/jax_logo_250px.png" alt="Description of image" style="display: block; margin: 0 auto">
 </div>
+</html>
 
 
 # JLR - JAX Learning Repository (Machine Learning with JAX)
