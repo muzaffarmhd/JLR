@@ -138,3 +138,9 @@ This is a learning repository to learn JAX and how fundamental calculus operatio
 - [ ] JAX Transformer with attention visualization
 - [ ] Optimization comparison study
 - [ ] Loss landscape or training dynamics analysis
+
+
+
+
+
+$$J_f(x_1, x_2, x_3) = \begin{bmatrix} \frac{\partial f_1}{\partial x_1} & \frac{\partial f_1}{\partial x_2} & \frac{\partial f_1}{\partial x_3} \\ \frac{\partial f_2}{\partial x_1} & \frac{\partial f_2}{\partial x_2} & \frac{\partial f_2}{\partial x_3} \\ \frac{\partial f_3}{\partial x_1} & \frac{\partial f_3}{\partial x_2} & \frac{\partial f_3}{\partial x_3} \end{bmatrix}$$
