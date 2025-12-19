@@ -5,7 +5,7 @@
 </html>
 
 
-# JLR - JAX Learning Repository (Machine Learning with JAX)
+# JLR - JAX Learning Repository 
 This is a learning repository to learn JAX and how fundamental calculus operations are performed with and within JAX while building a few models while exploring.
 
 ## Multivariable Calculus (Foundations)
@@ -17,8 +17,8 @@ This is a learning repository to learn JAX and how fundamental calculus operatio
 - [x] Total derivative and multivariable chain rule
 - [x] Jacobian matrix and linear approximation
 - [x] Jacobian–vector and vector–Jacobian products
-- [ ] Second-order derivatives and Hessian matrix
-- [ ] Curvature, saddle points, local minima
+- [x] Second-order derivatives and Hessian matrix
+- [x] Curvature, saddle points, local minima
 - [ ] Multivariable Taylor expansion (1st and 2nd order)
 - [ ] Constrained optimization and Lagrange multipliers
 
@@ -142,7 +142,3 @@ This is a learning repository to learn JAX and how fundamental calculus operatio
 - [ ] Loss landscape or training dynamics analysis
 
 
-
-
-
-$$J_f(x_1, x_2, x_3) = \begin{bmatrix} \frac{\partial f_1}{\partial x_1} & \frac{\partial f_1}{\partial x_2} & \frac{\partial f_1}{\partial x_3} \\ \frac{\partial f_2}{\partial x_1} & \frac{\partial f_2}{\partial x_2} & \frac{\partial f_2}{\partial x_3} \\ \frac{\partial f_3}{\partial x_1} & \frac{\partial f_3}{\partial x_2} & \frac{\partial f_3}{\partial x_3} \end{bmatrix}$$

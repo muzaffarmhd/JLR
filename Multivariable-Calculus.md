@@ -3,6 +3,7 @@
 ### Using Jacobian for Chain Rule function composition
 ![](./images/jacobian-chain-rule.png)
 ![](./images/jacobian-chain-rule-2.png)
+### Hessian Structure
 ## 2. This is a collection of questions to solidify understanding of the Gradient and the Jacobian
 
 
